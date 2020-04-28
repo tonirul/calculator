@@ -7,7 +7,10 @@ Print("You have entered: [Op]")
 Print("Are you sure? y/n")
 Inp1 = input()
 If Inp1 = y:
-   
+   Print("Enter first number : /n")
+   Num1 = input()
+   Print("Enter second number : /n")
+   Num2 = input()
 
 
 
