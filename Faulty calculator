@@ -1,0 +1,15 @@
+Print("Let's do calculation")
+Print("So choose from the list what do you want to do")
+Print("For addition press "+"/nFor substruction press "-"/nFor multiplication press "*"/nFor division press "/"")
+Print("Please enter your choice:")
+Op = input()
+Print("You have entered: [Op]")
+Print("Are you sure? y/n")
+Inp1 = input()
+If Inp1 = y:
+   
+
+
+
+Else:
+Print("Please try again!")
